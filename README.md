@@ -1,1 +1,1 @@
-A collection of various personal projects in different programming languages
+A collection of personal projects in different programming languages
